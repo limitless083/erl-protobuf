@@ -1,0 +1,4 @@
+message HelloWorld{
+    required uint64 message_id = 1;
+    optional string content = 2;
+}
